@@ -1,3 +1,6 @@
+import heapq
+import random
+
 class Parcel:
     def __init__(self, parcel_id, destination, weight, priority_score):
         self.parcel_id = parcel_id
