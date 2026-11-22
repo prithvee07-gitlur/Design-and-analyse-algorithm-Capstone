@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run courier_planner.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/courier_planner.py",
+            "console": "integratedTerminal",
+            "args": []
+        }
+    ]
+}
